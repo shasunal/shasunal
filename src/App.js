@@ -6,7 +6,7 @@ function App() {
     <div className="App">
      <header className="header">
   <img
-    src="/shasunaphoto.jpg"
+     src={`${process.env.PUBLIC_URL}/shasunaphoto.jpg`}
     alt="Shasuna Lin"
     className="profile-photo"
   />
