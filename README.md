@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Shasuna
+# Shasuna Lin's Portfolio Website
 
+Welcome, this is where you will find my projects and resume. 
 
-<!---
-shasunal/shasunal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Live Site**
+[https://shasunal.github.io/shasunal](https://shasunal.github.io/shasunal)
