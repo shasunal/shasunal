@@ -54,7 +54,7 @@ Built a dynamic gallery with pet type filters using MongoDB for data storage and
 Integrated Mapbox GL to display and interact with a dynamic NYC crime data map.
 Helped design the overall layout and user flow, contributing to a responsive and accessible interface.
 </p>
-            <br></br>
+            
             <a href="https://hackathonsummer-1.onrender.com/" target="_blank">View Project</a>
           </li>
         </ul>
