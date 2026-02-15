@@ -6,7 +6,7 @@ function App() {
     <div className="App">
      <header className="header">
   <img
-     src="shasunaphoto.jpg"
+     src="headshot.png"
     alt="Shasuna Lin"
     className="profile-photo"
   />
@@ -20,7 +20,9 @@ function App() {
 </header>
 
       <section id="about" className="section">
-        <h2>About Me</h2>
+        <h2>About Me</h2>npm install
+npm start
+
         <p>
         I’m a front end designer and developer focused on creating thoughtful, user centered experiences. With a background in Emerging Media, I bring a mix of design thinking, technical skill, and storytelling to everything I build. I enjoy turning ideas into interactive digital spaces that are both functional and visually engaging.
         </p>
