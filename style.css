@@ -1,0 +1,64 @@
+html{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 100vh;
+background-color: rgb(79, 157, 180);
+	background-image: url("https://github.com/shasunal/images/blob/main/flowergrow.gif?raw=true");
+	background-repeat: repeat;
+	background-size: 60px 60px;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+
+ 
+}
+
+.wrapper{
+ 
+    height:100% ;
+    width: 60%;
+    margin: 0 auto;
+
+    padding: 0rem 3rem 0rem 3rem;
+}
+
+
+.topimg{
+ 
+   display: block;
+   margin: 0 auto;
+}
+
+.portfolio-list{
+   padding: 2rem;
+      background-color: rgb(255, 255, 255, 0.3);
+}
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(205, 64, 191);
+    text-decoration: underline;
+   margin: 0;
+   margin-top: 1rem;
+}
+
+h3{
+    color: aliceblue;
+}
+
+.back-to-blog{
+    color: black;
+    background-color:rgb(205, 64, 191) ;
+    align-items: center;
+    padding: 0.5rem;
+
+}
+
+ol li{
+    list-style-type: none;
+}
+
+a{
+    color: aliceblue;
+}
